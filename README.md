@@ -1,6 +1,6 @@
 # A Star Tile Solver
 
-This is a small program that utilizes an A star search algorithm to solve an 8 tile puzzle game.
+This is a small program that utilizes an [A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm) to solve an 8 tile puzzle game.
 
 Run test_code.py to see an example output.
 
